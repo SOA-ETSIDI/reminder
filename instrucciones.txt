@@ -1,0 +1,29 @@
+Estimado profesor/a,
+
+Como en anteriores ocasiones, la información de Actividades Docentes y Tutorías se recoge a través de una aplicación web diseñada para tal efecto. En el siguiente enlace podrás acceder a la misma:
+
+%s
+
+Tras confirmar tu nombre y departamento, la aplicación te solicita información de las asignaturas asignadas para el cuatrimestre. Esta información, que no sustituye a la recogida en APOLO, es relevante para la gestión de aulas y horarios de la Escuela. Por esta razón, la aplicación se limita a recoger las titulaciones oficiales impartidas en la ETSIDI.
+
+En este apartado debes señalar la titulación y la asignatura que te corresponde impartir, y el grupo de matriculación en el caso de los grados. En los cuadros de selección puedes buscar fácilmente escribiendo parte del nombre de la titulación o la asignatura (quizás necesites borrar el contenido inicial con la tecla Retroceso).
+
+Tras esta selección, puedes seleccionar el tipo de docencia, marcar las franjas horarias que te corresponden, e incluso indicar las semanas de tu participación. Tras rellenar estos datos puedes añadir la asignatura pulsando el botón "Añadir".
+
+Debes repetir este proceso para todas las actividades docentes que te correspondan. Si cometes algún error, puedes eliminar una o más filas seleccionando las que desees y pulsando el botón "Eliminar fila". Cuando hayas completado este apartado debes pulsar el botón "Confirmar".  Si no tienes docencia asignada, pulsa el botón "Sin docencia".
+
+A continuación, la aplicación solicita información sobre las Tutorías. Para cada franja horaria que desees incluir debes rellenar el identificador del despacho, el día de la semana, y las horas de inicio y finalización. Usa el botón "Añadir" para incluir cada franja horaria. Es recomendable que el horario de docencia coincida parcialmente con las horas "Tuthoras". Cuando hayas completado todas las franjas horarias nuevamente pulsa el botón "Confirmar".
+
+El siguiente paso es similar al anterior, pero dedicado a las horas de atención al alumno para Trabajos de Fin de Grado y Trabajos de Fin de Máster. En este caso se puede usar el botón "Confirmar" sin haber incluido ninguna franja horaria.
+
+Finalmente, se muestra una página en la que se pueden descargar las tablas con la información suministrada, y un documento PDF que podrá ser empleado para mostrar esta información en los tablones correspondientes. No obstante, tal y como se indica en esta página, toda la información es provisional y deberá ser validada por el Director de Departamento. Por tanto, es conveniente que le avises cuando hayas completado la información en la aplicación para que proceda a validarla.
+
+*Para que la información quede correctamente almacenada es necesario llegar hasta esta última página.*
+
+A lo largo del curso puedes volver a usar el enlace anterior tantas veces como sea necesario. La información que hayas introducido anteriormente permanecerá registrada y podrá ser corregida o confirmada nuevamente.
+
+Si tienes alguna duda, te surge algún problema al emplear esta aplicación, o detectas algún error, responde directamente a este mensaje.
+
+Gracias por tu colaboración.
+
+%s

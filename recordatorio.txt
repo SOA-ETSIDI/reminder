@@ -1,0 +1,17 @@
+Estimado profesor/a
+
+Como en anteriores ocasiones, la información de Actividades Docentes y Tutorías se recoge mediante una aplicación web. El enlace personalizado que te corresponde es el siguiente:
+
+%s
+
+Por favor, ten en cuenta que para que la información quede registrada correctamente es necesario llegar hasta la última página en la que aparece un mensaje de confirmación. En esta página se pueden descargar las tablas con la información suministrada y un documento PDF que podrá ser empleado para mostrar esta información en tablones o en Moodle.
+
+A lo largo del curso puedes volver a usar el enlace anterior cuando necesites modificar los horarios, tantas veces como sea necesario. La información que hayas introducido anteriormente permanecerá registrada y podrá ser corregida o confirmada nuevamente.
+
+Recuerda que esta información estará accesible en la web http://programas.etsidi.upm.es/SOA/tutorias/ cuando el Director de tu Departamento la publique. Por tanto, es recomendable que le avises después de realizar cambios en los horarios.
+
+Si tienes alguna duda, te surge algún problema al emplear esta aplicación, o detectas algún error, responde directamente a este mensaje.
+
+Gracias por tu colaboración.
+
+%s
