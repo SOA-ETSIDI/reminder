@@ -4,6 +4,8 @@ Como en anteriores ocasiones, la información de Actividades Docentes y Tutoría
 
 %s
 
+Es recomendable que incorpores este enlace a los marcadores de tu navegador, usando la estrella que verás a la derecha del enlace cuando lo abras.
+
 Por favor, ten en cuenta que para que la información quede registrada correctamente es necesario llegar hasta la última página en la que aparece un mensaje de confirmación. En esta página se pueden descargar las tablas con la información suministrada y un documento PDF que podrá ser empleado para mostrar esta información en tablones o en Moodle.
 
 A lo largo del curso puedes volver a usar el enlace anterior cuando necesites modificar los horarios, tantas veces como sea necesario. La información que hayas introducido anteriormente permanecerá registrada y podrá ser corregida o confirmada nuevamente.

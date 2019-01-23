@@ -4,6 +4,8 @@ Como en anteriores ocasiones, la información de Actividades Docentes y Tutoría
 
 %s
 
+Es recomendable que incorpores este enlace a los marcadores de tu navegador, usando la estrella que verás a la derecha del enlace cuando lo abras.
+
 Tras confirmar tu nombre y departamento, la aplicación te solicita información de las asignaturas asignadas para el cuatrimestre. Esta información, que no sustituye a la recogida en APOLO, es relevante para la gestión de aulas y horarios de la Escuela. Por esta razón, la aplicación se limita a recoger las titulaciones oficiales impartidas en la ETSIDI.
 
 En este apartado debes señalar la titulación y la asignatura que te corresponde impartir, y el grupo de matriculación en el caso de los grados. En los cuadros de selección puedes buscar fácilmente escribiendo parte del nombre de la titulación o la asignatura (quizás necesites borrar el contenido inicial con la tecla Retroceso).
